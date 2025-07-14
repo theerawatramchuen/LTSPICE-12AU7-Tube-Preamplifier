@@ -7,6 +7,7 @@ https://youtu.be/7v9dG1uteAQ?si=SxcTgqS8P0J22AEq
 <img width="771" height="478" alt="image" src="https://github.com/user-attachments/assets/3eadfcba-2280-490b-82da-3549af152c7c" />
 <img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/1d525d41-f50f-4ea8-8b54-49c4071c551e" />
 ## Key Additions:
+
 ### 12AX7 Subcircuit:
 ```Cak=0.33p: Anode-to-cathode capacitance
 Cga=1.6p: Grid-to-anode capacitance
