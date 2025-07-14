@@ -9,7 +9,8 @@ https://youtu.be/7v9dG1uteAQ?si=SxcTgqS8P0J22AEq
 
 ## Key Additions:
 
-```12AX7 Subcircuit:
+```
+12AX7 Subcircuit:
 Cak=0.33p: Anode-to-cathode capacitance
 Cga=1.6p: Grid-to-anode capacitance
 Cgk=1.65p: Grid-to-cathode capacitance
@@ -37,4 +38,5 @@ Usage Notes:
 Pin Order: Both new models use 1=Anode, 2=Grid, 3=Cathode (same as the existing 6S19P).
 Compatibility: The models retain the original VTT subcircuit structure, ensuring consistency.
 Parameter Sources: Values are derived from Norman Koren's industry-standard vacuum tube models.
-This update allows seamless simulation of 12AX7 and 12AU7 tubes alongside the original 6S19P model in SPICE-based circuit simulators.```
+This update allows seamless simulation of 12AX7 and 12AU7 tubes alongside the original 6S19P model in SPICE-based circuit simulators.
+```
