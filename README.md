@@ -19,9 +19,9 @@ mu=100: Amplification factor
 kp=600: Knee sharpness parameter
 kvb=300: Grid voltage smoothing parameter
 vgc=0: Grid-cathode voltage offset
-Rgk=2k: Grid-cathode resistance```
+Rgk=2k: Grid-cathode resistance
 
-```12AU7 Subcircuit:
+12AU7 Subcircuit:
 Cak=0.24p: Anode-to-cathode capacitance
 Cga=1.4p: Grid-to-anode capacitance
 Cgk=1.6p: Grid-to-cathode capacitance
@@ -31,9 +31,9 @@ mu=17: Amplification factor
 kp=330: Knee sharpness parameter
 kvb=300: Grid voltage smoothing parameter
 vgc=0: Grid-cathode voltage offset
-Rgk=2k: Grid-cathode resistance```
+Rgk=2k: Grid-cathode resistance
 
-```Usage Notes:
+Usage Notes:
 Pin Order: Both new models use 1=Anode, 2=Grid, 3=Cathode (same as the existing 6S19P).
 Compatibility: The models retain the original VTT subcircuit structure, ensuring consistency.
 Parameter Sources: Values are derived from Norman Koren's industry-standard vacuum tube models.
