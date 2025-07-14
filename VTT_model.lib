@@ -25,4 +25,4 @@ C3 A K {Cak}
 D1 G K DGK
 B2 e1 0 V=(V(a,k)/Kp)*Log(1+exp(Kp*(1/mu+(v(g,k)+vgc)/sqrt(kvb+pow(V(a,k),2)))))
 .model DGK D(Vfwd=0 Ron={RGK} Roff=100meg)
-.ends
+.ends 
