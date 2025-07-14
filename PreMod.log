@@ -1,13 +1,13 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\RYZEN\Downloads\Pre12AU7\PreMod.net
-Start Time: Mon Jul 14 08:46:15 2025
+Start Time: Mon Jul 14 09:21:11 2025
 solver = Normal
 Maximum thread count: 64
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.089 seconds.
+Total elapsed time: 0.066 seconds.
 
 Files loaded:
 C:\Users\RYZEN\Downloads\Pre12AU7\PreMod.net
