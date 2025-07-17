@@ -41,3 +41,5 @@ Compatibility: The models retain the original VTT subcircuit structure, ensuring
 Parameter Sources: Values are derived from Norman Koren's industry-standard vacuum tube models.
 This update allows seamless simulation of 12AX7 and 12AU7 tubes alongside the original 6S19P model in SPICE-based circuit simulators.
 ```
+## 12AX7 SRPP Preamplifier LTSPICE Simulation
+<img width="1151" height="948" alt="image" src="https://github.com/user-attachments/assets/ef20a4d3-c384-48ef-bb90-c9c091e02ca2" />
