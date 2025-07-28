@@ -44,6 +44,7 @@ This update allows seamless simulation of 12AX7 and 12AU7 tubes alongside the or
 ## 12AX7 SRPP Preamplifier LTSPICE Simulation
 <img width="1150" height="831" alt="image" src="https://github.com/user-attachments/assets/d4287139-7fd5-4703-afe3-2803f4a52977" />
 <img width="1079" height="673" alt="image" src="https://github.com/user-attachments/assets/e1f7d191-e359-4846-a59a-2c971d525f15" />
+<img width="1337" height="1112" alt="image" src="https://github.com/user-attachments/assets/c1e5c26e-b34e-40e6-85b3-a6b87585dd34" />
 
 
 
