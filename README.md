@@ -46,7 +46,8 @@ This update allows seamless simulation of 12AX7 and 12AU7 tubes alongside the or
 <img width="1079" height="673" alt="image" src="https://github.com/user-attachments/assets/e1f7d191-e359-4846-a59a-2c971d525f15" />
 <img width="1337" height="1112" alt="image" src="https://github.com/user-attachments/assets/c1e5c26e-b34e-40e6-85b3-a6b87585dd34" />
 <img width="1304" height="879" alt="image" src="https://github.com/user-attachments/assets/964639c3-77e0-45d1-bfe5-a66196e8ef0e" />
-<img width="2320" height="1760" alt="image" src="https://github.com/user-attachments/assets/3a630421-309f-4dd1-a93b-e2f232cf340a" />
+<img width="2305" height="1757" alt="image" src="https://github.com/user-attachments/assets/21b1ad86-3923-4a0e-b19a-9e5c1a6ef50a" />
+
 
 
 
